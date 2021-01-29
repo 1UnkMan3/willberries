@@ -2,6 +2,6 @@
 - HTML
 - CSS
 - JavaScript
-#Бибилиотека
+# Бибилиотека
 - Bootstrap v5
 - Swiper Slider JS
